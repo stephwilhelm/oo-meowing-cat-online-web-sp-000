@@ -6,6 +6,6 @@ class Cat
   end
 
   def meow=(meow)
-    @meow = name
+    @meow = meow!
   end
 end## code your solution here.
